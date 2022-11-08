@@ -1,0 +1,32 @@
+[
+    {
+    "nombre": "Panel Solar 550W Monocristalino Half-Cell AMERISOLAR",
+    "precio": 448.8,
+    "thumbnail": "url",
+    "id": 1
+  },
+  {
+    "nombre": "Panel Solar 450W Monocristalino Half-Cell - BLACK FRAME - AMERISOLAR",
+    "precio": 379.5,
+    "thumbnail": "url",
+    "id": 2
+  },
+  {
+    "nombre": "Panel Solar 345W AMERISOLAR",
+    "precio": 280.5,
+    "thumbnail": "url",
+    "id": 3
+  },
+  {
+    "nombre": "Panel Solar 330W AMERISOLAR",
+    "precio": 273.5,
+    "thumbnail": "url",
+    "id": 4
+  },
+  {
+    "nombre": "Panel Solar 285W AMERISOLAR",
+    "precio": 231,
+    "thumbnail": "url",
+    "id": 5
+  }
+]
